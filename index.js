@@ -1,19 +1,3 @@
-
-
-let articlesArray = [{
-  title:'',
-  subTitle:"",
-  imageURL:"",
-  articleInnerHtml:"",
-    articleTexTContenT:"",
-  authorName: "",
-  aboutAuthor:"",
-  authorImgURL:"",
-  amountLiked:0,
-  amountDisLiked:0,
-}]
-
-
 // ELEMENTS
 let iframeData = document.querySelector(".content")
 let postBtns = document.querySelector(".postBtns");
